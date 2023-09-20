@@ -19,5 +19,14 @@
 - Teemade arutamine, et otsustada kumb valida
 - Ideede arutamine ja githubi leitud allikate ja info üleslaadimine
 - töö planeerimine
+### Kuidas?
+ #### Teemade jaotus
+ - Marek - Ennetav info
+ - Kristjan - Lämbumine, Oksendamine ja kõhulahtisus
+ - Joosep - Veritsemine, Põletused, Mürgitused
+ - Robin - Palavik, Ei hinga
+ - Mari-Liis - Luumurrud, Kuumarabandus
+ - Germo - Peavigastused
+ - Nikita - Ninaverejooks
 
 
