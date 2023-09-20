@@ -19,7 +19,20 @@
 - Teemade arutamine, et otsustada kumb valida
 - Ideede arutamine ja githubi leitud allikate ja info üleslaadimine
 - töö planeerimine
-### Kuidas?
+  ### Kuidas?
+   - web
+   - äpp
+  ### Milleks?
+    - Eneseteadlikkus
+    - kindlustunne
+    - ennetada vigastusi
+    - tead millal EMO-sse minna või mitte
+  ### Miks?
+       - puudub sisend
+       - et oleks kättesaadav usaldusväärne info
+       - puudu koht kus infot leida
+      - info laiali
+       - puudub professionaalide sisend
  #### Teemade jaotus
  - Marek - Ennetav info
  - Kristjan - Lämbumine, Oksendamine ja kõhulahtisus
