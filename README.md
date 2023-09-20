@@ -17,7 +17,7 @@
 - Tiimiga tutvumine.
 - Suhtluskanalis info jagamine
 - Teemade arutamine, et otsustada kumb valida
-- Ideede arutamine ja github üleslaadimine
+- Ideede arutamine ja githubi leitud allikate ja info üleslaadimine
 - töö planeerimine
 
 
