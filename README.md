@@ -19,14 +19,16 @@
 - Teemade arutamine, et otsustada kumb valida
 - Ideede arutamine ja githubi leitud allikate ja info üleslaadimine
 - töö planeerimine
+  
   ### Kuidas?
-   - web
-   - äpp
+   - web?
+   - äpp?
   ### Milleks?
     - Eneseteadlikkus
     - kindlustunne
     - ennetada vigastusi
     - tead millal EMO-sse minna või mitte
+    - oskad käituda erinevates olukordades
   ### Miks?
        - puudub sisend
        - et oleks kättesaadav usaldusväärne info
