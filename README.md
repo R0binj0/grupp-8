@@ -9,7 +9,7 @@
 - Marek     TA-23
 - Germo     TA-23
 - Nikita    TA-23
-- Kristjan   TAK-22
+- Kristjan   TAK-21
 - Martin-Joosep TAK-22
 - Robin         TAK-22
 
