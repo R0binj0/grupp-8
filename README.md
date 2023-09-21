@@ -5,13 +5,13 @@
 
 ### Tiimiliikmed:
 
-- Mari-Liis
-- Marek
-- Germo
-- Nikita
-- Kristjan
-- Martin-Joosep
-- Robin
+- Mari-Liis TA-22
+- Marek     TA-23
+- Germo     TA-23
+- Nikita    TA-23
+- Kristjan   TA-22
+- Martin-Joosep TAK-21
+- Robin         TAK-21
 
 ### Töökäik
 - Tiimiga tutvumine.
