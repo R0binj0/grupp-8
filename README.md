@@ -9,9 +9,9 @@
 - Marek     TA-23
 - Germo     TA-23
 - Nikita    TA-23
-- Kristjan   TA-22
-- Martin-Joosep TAK-21
-- Robin         TAK-21
+- Kristjan   TAK-22
+- Martin-Joosep TAK-22
+- Robin         TAK-22
 
 ### Töökäik
 - Tiimiga tutvumine.
