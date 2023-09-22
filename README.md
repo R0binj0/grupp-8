@@ -86,6 +86,7 @@ https://grupp-8-robin.vercel.app/
 
 - Meeskonna juhtimise kogemus, kommunikeerida oleks just vaja rohkem ja teha eraldi väiksemate tiimide juhendajad - et päriselt suhtlus toimiks ja tehakse asju samade töövahenditega ning loogikaga.
 
+[VaikelapseTervisehairedLOW.pdf](https://github.com/R0binj0/grupp-8/files/12699973/VaikelapseTervisehairedLOW.pdf)
 
 ![380943559_632160439101393_7854409531428085172_n](https://github.com/R0binj0/grupp-8/assets/144334570/eeca6a4e-3390-4f52-b39f-a835d7acfb51)
 
