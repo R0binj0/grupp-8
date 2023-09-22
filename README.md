@@ -4,7 +4,7 @@
 
 ### Figma link: 
 
-https://www.figma.com/file/Jdjv5lMmbHZPppUUudv6FI/Grupp-8-september?type=design&node-id=0-1&mode=design&t=vEe6Bu23KEKtsKZE-0
+[https://www.figma.com/file/Jdjv5lMmbHZPppUUudv6FI/Grupp-8-september?type=design&node-id=0-1&mode=design&t=vEe6Bu23KEKtsKZE-0](https://www.figma.com/file/Jdjv5lMmbHZPppUUudv6FI/Grupp-8-september?type=design&node-id=0%3A1&mode=design&t=rSTMnqbX6yFlDPdz-1)
 
 ### Code:
 
