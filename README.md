@@ -2,6 +2,8 @@
 
 ##  Beebide ja Väikelaste esmaabi
 
+### Figma link: 
+https://www.figma.com/file/Jdjv5lMmbHZPppUUudv6FI/Grupp-8-september?type=design&node-id=0-1&mode=design&t=vEe6Bu23KEKtsKZE-0
 
 ### Tiimiliikmed:
 
@@ -43,6 +45,17 @@
  - Mari-Liis - Luumurrud, Kuumarabandus
  - Germo - Peavigastused
  - Nikita - Ninaverejooks
+
+### Töös kasutatud vahendid
+ - Slack
+ - Figma
+ - React
+ - Next.js
+ - Vercel
+ - Node
+ - Tailwind
+
+
 
 ![380943559_632160439101393_7854409531428085172_n](https://github.com/R0binj0/grupp-8/assets/144334570/eeca6a4e-3390-4f52-b39f-a835d7acfb51)
 
